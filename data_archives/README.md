@@ -1,0 +1,1 @@
+Put the data archives here (see the main README, section "Data and result archives"); they are produced from the original project folder with `python tools/collect_data.py --src <folder>` and extracted with `python tools/unpack_data.py`.
