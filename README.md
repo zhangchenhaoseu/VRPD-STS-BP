@@ -2,7 +2,7 @@
 
 Reference code and data for the paper
 
-> *A physical-network-based space-time-state modeling and branch-and-price framework for the time-dependent vehicle routing problem with drones*, Transportation Research Part E: Logistics and Transportation Review, accepted 2026. [Add the author list and the DOI here when the article is published.]
+> *A physical-network-based space-time-state modeling and branch-and-price framework for the time-dependent vehicle routing problem with drones*, Transportation Research Part E: Logistics and Transportation Review, accepted 2026. Chenhao Zhang, Tao Feng, Yaoxin Wu, Yuanbo Li, Lin Cheng. 10.1016/j.tre.2026.105407
 
 The repository contains the branch-and-price implementation (pricing by a space-time-operation dynamic program, lazily separated rounded capacity inequalities, parallel pricing), the Gurobi baselines, the instance generator, the instance files and the result files behind Tables 6 to 13 and Figures 21 to 23 of the paper, and the scripts of the sensitivity analyses.
 
@@ -178,4 +178,4 @@ These are the points where the code, the data or the reported numbers differ fro
 
 ## Licence and citation
 
-[Choose a licence for the code (for example MIT) and cite the paper when using the code or the instances.]
+MIT
